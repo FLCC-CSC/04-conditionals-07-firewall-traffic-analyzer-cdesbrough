@@ -28,7 +28,7 @@ if port == 80:
         risk = "LOW RISK: Normal unencrypted traffic."
 
 elif port == 22 or port == 3389:
-    risk = "HIGH RISK: Potential unauthorized remote access detected!"
+    risk = "HIGH RISK: Potential unauthorized remote access detected"
 
 elif port == 443:
     risk = "LOW RISK: Secure encrypted transfer detected."
@@ -41,8 +41,6 @@ print("\nFIREWALL LOG:")
 print(f"Port: {port}, Transfer Size: {transfer_size} MB")
 print(f"Risk Assessment: {risk}")
 print("------------------------")
-
-
 
 
 
