@@ -100,9 +100,8 @@ Risk Assessment: UNKNOWN: Unrecognized traffic pattern.
 
 1. Did you get tripped up using the `or` or `and` operators? If so, how?
 
-# No it made sense to use "or" operators and to set it up to use different slections within the code, all though using the "And" operator, I needed to think a little harder to recognize, and to input correctly.
-
-
+# 50/50 - it made sense to use "or" operators and to set it up to use different selections within the code, all though using the "And" operator, I needed to think a little harder to recognize, and to input correctly.
+# Overall this project was difficult due to the program needing to code. 
 
 
 
